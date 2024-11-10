@@ -18,7 +18,7 @@ repos:
   meta-ptx:
     url: https://git.pengutronix.de/git/meta-ptx
     path: layers/meta-ptx
-    branch: master
+    branch: nanbield
 
   rockchip-rv1106:
     layers:

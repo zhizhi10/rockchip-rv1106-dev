@@ -10,4 +10,5 @@ SRC_URI += "file://genimage.config"
 
 do_genimage[depends] += " \
     virtual/bootloader:do_deploy \
+    virtual/kernel:do_deploy \
 "
