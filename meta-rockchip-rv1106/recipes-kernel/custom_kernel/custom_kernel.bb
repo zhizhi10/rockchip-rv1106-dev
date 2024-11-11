@@ -1,7 +1,7 @@
 SUMMARY = "RV Custom Linux Kernel"
 DESCRIPTION = "RV Custom Linux Kernel"
 LICENSE = "GPL-2.0-or-later"
-LIC_FILES_CHKSUM = "file://Licenses/README;md5=a2c678cfd4a4d97135585cad908541c6"
+LIC_FILES_CHKSUM = "file://COPYING;md5=6bc538ed5bd9a7fc9398086aedcd7e46"
 PROVIDES += "kernel"
 SRC_URI = "\
     git://github.com/zhizhi10/luckfox-pico;protocol=https;branch=main;name=source;subpath=sysdrv/source/kernel \
